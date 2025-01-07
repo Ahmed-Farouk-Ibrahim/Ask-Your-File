@@ -30,8 +30,8 @@ This repository provides a Streamlit-based application that allows users to uplo
 ### 1- Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ask-your-file.git  
-cd ask-your-file  
+git clone https://github.com/Ahmed-Farouk-Ibrahim/Ask-Your-File.git
+cd Ask-Your-File  
 ```
 
 ### 2- Create a Conda Environment:
